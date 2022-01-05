@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "name": "wafle",
+        "snakType": "base",
+        "base": ["wafle"],
+        "additional": []
+    },
+    {
+        "id": "2",
+        "name": "esquite",
+        "snakType": "base",
+        "base": ["elote"],
+        "additional": []
+    }
+]
