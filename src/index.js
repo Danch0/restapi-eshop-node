@@ -16,6 +16,7 @@ app.use(cors());
 // routes
 app.use('/api/test', require('./routes/index'));
 app.use('/api/desserts', require('./routes/desserts'));
+app.use('/api/snacks', require('./routes/snacks'));
 
 // stating server
 app.listen(app.get('port'), () => {
